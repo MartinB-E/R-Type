@@ -4,3 +4,8 @@ cmake-build-debug
 cmake-build-release
 build
 .vscode
+# Build outputs and editor files
+*.o
+*.a
+*.so
+*.log
