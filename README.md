@@ -2,8 +2,6 @@
 
 A networked multiplayer shoot 'em up in C++20, built on a custom Entity Component System, with an authoritative server and up to 4 players.
 
-[À COMPLÉTER : capture — screenshot or GIF of a 2-player game with enemies on screen]
-
 ## Features
 
 - **Client / server multiplayer**: up to 4 players per game (`MAX_PLAYER` in `Server/Game/ServerGame.hpp`)
@@ -69,5 +67,3 @@ This repository is a copy of the team repository [MYAMBO/R-Type](https://github.
 - Game screens and flow on the client: waiting room, game over / victory, credits, high score, next level and retry
 - Server-side level change and game restart; fixes on player connection and threading
 - Documentation of the ECS and game modules (`docs/`)
-
-[À COMPLÉTER : confirmer / corriger ta contribution]
